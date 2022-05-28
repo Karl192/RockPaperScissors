@@ -1,2 +1,1 @@
 # RockPaperScissors
-Javascript foundations exercise
